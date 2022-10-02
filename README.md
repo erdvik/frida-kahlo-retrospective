@@ -1,4 +1,4 @@
-##Project Goals
+## Project Goals
 
 Congratulations! You’ve been hired to work on a retrospective of Frida Kahlo’s work at a major museum in Mexico.
 
